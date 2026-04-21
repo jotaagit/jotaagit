@@ -1,4 +1,4 @@
-# 🇧🇷 Olá, eu sou o João Pedro 👋
+# 🇧🇷 Olá, eu sou João Pedro 👋
 
 Sou estudante de Sistemas de Informação na USP, apaixonado por infraestrutura de software e programação de baixo nível.
 
